@@ -44,10 +44,10 @@ pip install PyQt5 Pillow psutil requests tqdm yt-dlp opencv-python tinify seleni
 ```
 
 ## 🛠 Quick guide
-Output settings: Select the save folder, name the Extension and the author's name.
+- Output settings: Select the save folder, name the Extension and the author's name.
 - Select source: Download video from your device or paste the YouTube link to extract images.
 - Configure Assets: Add pack icons and edit desired interface elements.
-- Packing: Click the Build button in the right corner to create a complete resource pack file.
+- Packing: Click the Build button in the right corner to create a complete pack file.
 
 ## 📜 License & Additional Information
 The project is released under the GPL v3 license.
