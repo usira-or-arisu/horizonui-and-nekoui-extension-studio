@@ -36,7 +36,7 @@ Copy and paste the following command into your Terminal:
 curl -fsSL [https://hrz-maker.tubeo5866.com](https://hrz-maker.tubeo5866.com) | python3
 ```
 
-## Manually install support libraries
+## 🚀 Manually install support libraries
 Normally, the script will automatically install the necessary libraries. If you encounter errors, you can install it manually with the following command:
 
 ```bash
@@ -49,9 +49,11 @@ pip install PyQt5 Pillow psutil requests tqdm yt-dlp opencv-python tinify seleni
 - Configure Assets: Add pack icons and edit desired interface elements.
 - Packing: Click the Build button in the right corner to create a complete pack file.
 
-## 📜 License & Additional Information
-The project is released under the GPL v3 license.
-
-Product made by TuBeo5866, for Hans Community.
+## 📜 License & Credits
+***The project is released under the GPL v3 license.***
+- **TuBeo5866**: owner of this Extension Studio.
+- **[Han's](https://www.youtube.com/channel/UC3ConC9gPQHV4WsCZo4yfVQ)**: owner of HorizonUI & NekoUI.
+- **Fabrice Bellard**: `ffmpeg` author.
+- **Community members** for maintained `yt-dlp`.
 
 Made with ❤️ for the Minecraft Community!
