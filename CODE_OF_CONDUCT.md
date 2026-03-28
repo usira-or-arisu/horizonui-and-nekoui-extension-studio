@@ -1,4 +1,4 @@
-## TuBeo5866's HorizonUI/NekoUI Extension Studio — TERMS OF USE & LICENSE
+## TuBeo5866's HorizonUI/NekoUI Extension Studio — Code of Conduct
 
 (Last updated: March 20, 2026)
 
