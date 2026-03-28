@@ -4,7 +4,7 @@
 
 A powerful GUI tool for building **HorizonUI** and **NekoUI** resource packs & extensions. Full support for both **Minecraft: Bedrock Edition** and **Minecraft: Java Edition**.
 
-![Software interface](https://www.dropbox.com/scl/fi/3xb53dq0mvdkjjgu12ure/a.png?rlkey=6u6vruibzqio8ya7k3bicbean&st=3wsg52f1&dl=1)
+![Software interface](https://raw.githubusercontent.com/usira-or-arisu/horizonui-and-nekoui-extension-studio/refs/heads/main/INTERFACE.png)
 
 ---
 
