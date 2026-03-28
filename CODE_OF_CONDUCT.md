@@ -2,8 +2,7 @@
 
 (Last updated: March 20, 2026)
 
-PLEASE READ THESE TERMS CAREFULLY BEFORE USING THIS SOFTWARE.
-
+> ***PLEASE READ THESE TERMS CAREFULLY BEFORE USING THIS SOFTWARE.***
 ### 1. DEFINITIONS
 - "Software"    — TuBeo5866's HorizonUI/NekoUI Extension Studio.
 - "Extension"   — Any .mcpack or .zip file produced by the Software.
