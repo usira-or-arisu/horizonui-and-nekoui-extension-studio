@@ -51,6 +51,32 @@ pip install PyQt5 Pillow psutil requests tqdm yt-dlp opencv-python tinify seleni
 - Configure Assets: Add pack icons and edit desired interface elements.
 - Packing: Click the Build button in the right corner to create a complete pack file.
 
+## ⚠️ Notes for downloading YouTube Video
+For some unknown reason, downloading a video from YouTube (through `yt-dlp`) requires your YouTube account cookie file.
+
+> [!CAUTION]
+> Like the author of `yt-dlp` said, by using your account with `yt-dlp`, you run the risk of it being banned (temporarily or permanently). Be mindful with the request rate and amount of downloads you make with an account.
+
+Below is a full step-to-step guide on how to get your YouTube account cookie file
+
+<details> 
+  <summary>🟢 Using Chrome extension.</summary>
+  
+  ### 
+  1. Install ["Get cookies.txt LOCALLY"](https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc) extension from Chromw Web Store.
+  2. Open YouTube and click on the extension to open a small panel
+  3. You can choose to extract cookies, or copy them and save it to a new `.txt` file.
+</details>
+
+<details> 
+  <summary>🔴 Using a private-browsing / incognito window.</summary>
+  
+  ### 
+  1. Open a new private browsing/incognito window and log into YouTube.
+  2. In same window and same tab from step 1, navigate to https://www.youtube.com/robots.txt (this should be the only private/incognito browsing tab open).
+  3. Export youtube.com cookies from the browser, then close the private browsing/incognito window so that the session is never opened in the browser again.
+</details>
+
 ## 📜 License & Credits
 ***The project is released under the GPL v3 license.***
 - **TuBeo5866**: owner of this Extension Studio.
