@@ -1,6 +1,7 @@
 # HorizonUI/NekoUI Extension Studio
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![Python Version](https://img.shields.io/badge/Python-3.12%2B-blue.svg)](https://www.python.org/)
+[![Node.js Version](https://img.shields.io/badge/Node.js-20%2B-green.svg)](https://nodejs.org/)
 
 A powerful GUI tool for building **HorizonUI** and **NekoUI** resource packs & extensions. Full support for both **Minecraft: Bedrock Edition** and **Minecraft: Java Edition**.
 
