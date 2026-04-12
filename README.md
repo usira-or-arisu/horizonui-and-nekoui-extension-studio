@@ -63,7 +63,7 @@ Below is a full step-to-step guide on how to get your YouTube account cookie fil
   <summary>🟢 Using Chrome extension.</summary>
   
   ### 
-  1. Install ["Get cookies.txt LOCALLY"](https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc) extension from Chromw Web Store.
+  1. Install __[Get cookies.txt LOCALLY](https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc)__ extension from Chrome Web Store.
   2. Open YouTube and click on the extension to open a small panel
   3. You can choose to extract cookies, or copy them and save it to a new `.txt` file.
 </details>
