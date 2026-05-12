@@ -104,7 +104,7 @@ For some unknown reason, downloading a video from YouTube (through `yt-dlp`) req
 
 in [my Ko-fi page](https://ko-fi.com/tubeo5866) <3 👉👈
 
-![my qr code](https://img.lightshot.app/ZHHUXajHQ3OwMYd70FS5tw.png?size=48)
+![my qr code](https://img.lightshot.app/u-Z4lTbtT1qe8M99xRPx7A.png)
 
 ## 📜 License & Credits
 ***The project is released and licensed under the GPL v3 license.***
@@ -114,4 +114,3 @@ in [my Ko-fi page](https://ko-fi.com/tubeo5866) <3 👉👈
 - **Community members** for maintained `yt-dlp`.
 
 Made with ❤️ for the Minecraft Community and Hans Community!
-
