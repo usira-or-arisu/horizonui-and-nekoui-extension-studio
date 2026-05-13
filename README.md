@@ -47,7 +47,7 @@ Normally, the script will automatically install the necessary libraries. If you 
 pip install PyQt5 Pillow psutil requests tqdm yt-dlp opencv-python tinify selenium krakenio imagekitio cloudinary
 ```
 
-Also the `yt-dlp` and `ffmpeg` too, if fail: download the latest release of [`yt-dlp`](https://github.com/yt-dlp/yt-dlp/releases) and [`ffmpeg (Windows)`](https://github.com/BtbN/FFmpeg-Builds/releases) or [`ffmpeg (macOS/Linux)`](https://github.com/ffmpeg/ffmpeg/releases)
+Also the `yt-dlp` and `ffmpeg` too, if fail: download the latest release of [`yt-dlp`](https://github.com/yt-dlp/yt-dlp/releases) and [`ffmpeg (Windows)`](https://github.com/BtbN/FFmpeg-Builds/releases) or [`ffmpeg (macOS/Linux)`](https://github.com/ffmpeg/ffmpeg/releases). Also, make sure they're in system environment variables.
 
 ## 🛠 Quick guide
 - Output settings: Select the save folder, name the Extension and the author's name.
