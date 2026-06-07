@@ -14,7 +14,7 @@ A powerful GUI tool for building **HorizonUI** and **NekoUI** resource packs & e
 * **Multi-platform support:** Flexibly switch between Bedrock and Java Edition.
 * **Smart Video Processing:** Supports source from Video file, YouTube Video or Image. 
 * Automatically extract frames with custom FPS and time (Start/End time). 
-* **In-depth Asset Customization:** Change Background Type (Dynamic, Static, or both). 
+* **In-depth Asset Customization:** with Background Types (Dynamic, Static, or both). 
 * **Edit** Custom Container Background, Loading Background and Background Music easily.
 * **Optimization & Compression:** Supports many data compression methods to help reduce pack size.
 * **Intuitive Build Log:** Track the packaging process and export the `.mcpack` or `.zip` file in real time.
