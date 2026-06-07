@@ -28,6 +28,8 @@ No complicated installation required. You can run directly through Terminal anyt
 ### System requirements
 * [**Python**](https://python.org) installed (version >= 3.12).
 * [**Node.js**](https://node.js.org/en/download) installed (version >= 20) (as it'll be required for downloading YouTube video).
+> [!NOTE]
+> If you're not intending to download YouTube video, then you don't need to install **NodeJS**.
 
 ### The command runs quickly
 With this short all-in-one command to launch in a short time!
