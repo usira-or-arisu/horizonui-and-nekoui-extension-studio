@@ -61,6 +61,9 @@ And, make sure they're in `PATH` system environment variable.
 - Configure Assets: Add pack icons and edit desired interface elements.
 - Packing: Click the Build button in the right corner to create a complete pack file.
 
+> [!NOTE]
+> If you're using this Software for the first time, it may take a while to install libraries and dependencies!
+
 ## ⚠️ Notes for downloading YouTube Video
 For some unknown reason, downloading a video from YouTube (through `yt-dlp`) requires your YouTube account cookie file.
 
